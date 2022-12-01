@@ -5,7 +5,7 @@ This repository provides examples of simple deep reinforcement learning using RO
 We use turtlesim in ROS2 as a simulator for reinforcement learning.
 
 # how to use
-## (example 1) Tracking Turtle
+## (example 1) Deep Reinforcement Learning for Turtle Tracking.
 
 $ ros2 run turtlesim turtlesim_node
 
