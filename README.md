@@ -1,5 +1,7 @@
 # Ros2SBL3_Turtlesim
 
+This repository contains examples of simple deep reinforcement learning using ROS2 and StableBaseline3.
+
 # how to use
 ## (example 1) Tracking Turtle
 
