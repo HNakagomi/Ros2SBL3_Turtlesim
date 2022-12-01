@@ -239,10 +239,10 @@ def main(args=None):
 
     # train
     #model.learn(total_timesteps=10000)
-    #model.save('./save_weights/rl_model_final_steps.zip')
+    #model.save('./src/Ros2SBL3_Turtlesim/rl_model_trained.zip')
 
     # test
-    model = PPO.load("./save_weights/rl_model_final_steps.zip")
+    model = PPO.load("./src/Ros2SBL3_Turtlesim/rl_model_trained.zip")
     #model = DQN.load("./save_weights/rl_model_final_steps.zip")
     for i in range(100):
         obs = env.reset()
