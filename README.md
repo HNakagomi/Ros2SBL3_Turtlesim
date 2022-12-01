@@ -10,5 +10,8 @@ We use turtlesim in ROS2 as a simulator for reinforcement learning.
 $ ros2 run turtlesim turtlesim_node
 
 $ ros2 run Ros2SBL3_Turtlesim rl_test_client 
+<<<<<<< HEAD
 
 ![demo](https://raw.github.com/wiki/HNakagomi/Ros2SBL3_Turtlesim/images/10000step_trained.gif)
+=======
+>>>>>>> 2f3553444381866df0988d68f969481802234307
